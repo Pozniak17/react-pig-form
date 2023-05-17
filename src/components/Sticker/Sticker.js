@@ -9,3 +9,6 @@ export const Sticker = ({ sticker: { id, img, label }, onDelete }) => {
     </CardWrapper>
   );
 };
+
+// тут ми на клікі кнопки викликаємо анонімну функцію, яка викликає onDelete з App => StickerList => Sticker
+// та передаємо в середину id нашого одного стікера.
