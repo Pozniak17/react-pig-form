@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-pig-form/static/css/main.cd2e038f.css",
-    "main.js": "/react-pig-form/static/js/main.0eb1eeb4.js",
+    "main.js": "/react-pig-form/static/js/main.056698e9.js",
     "index.html": "/react-pig-form/index.html",
     "main.cd2e038f.css.map": "/react-pig-form/static/css/main.cd2e038f.css.map",
-    "main.0eb1eeb4.js.map": "/react-pig-form/static/js/main.0eb1eeb4.js.map"
+    "main.056698e9.js.map": "/react-pig-form/static/js/main.056698e9.js.map"
   },
   "entrypoints": [
     "static/css/main.cd2e038f.css",
-    "static/js/main.0eb1eeb4.js"
+    "static/js/main.056698e9.js"
   ]
 }
